@@ -126,6 +126,9 @@ const developmentCSRWatch = (): void => {
             host: config.server.host,
             port: config.server.port + 1,
             strictPort: true,
+            hmr: {
+              overlay: true,
+            },
           },
           build: {
             manifest: true,
