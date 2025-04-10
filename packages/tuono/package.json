@@ -74,7 +74,7 @@
     "tuono-fs-router-vite-plugin": "workspace:*",
     "tuono-router": "workspace:*",
     "url-search-params-polyfill": "^8.2.5",
-    "vite": "^6.1.1",
+    "vite": "^6.1.4",
     "web-streams-polyfill": "^4.0.0"
   },
   "devDependencies": {
